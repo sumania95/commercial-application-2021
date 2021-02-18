@@ -35,6 +35,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-venv
-media
-static
+*venv
+*media
+*static
